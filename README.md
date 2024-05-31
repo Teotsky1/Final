@@ -13,8 +13,13 @@
  Hay que tenerle paciencia, el demo funciona correctamente apenas arranca su ejecucion total, pero al principio es trabado, como que le cuesta inicar en la pagina.
 
  Los controles son:
+ 
  ESC -> Para prender y apagar el control del mouse
+
+ 
  WASD -> Movimientos Horizontales
+
+ 
  QE -> Movimiento vertical
 
 https://teotsky.itch.io/final-computacion-grafica
